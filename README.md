@@ -65,7 +65,7 @@ This project focuses on:
 - Great starting point for new users or lower-end devices
 
 ➡️ **Open the list:**  
-👉 [[1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Mangmi_Air_X_PS2_Full_List_Default.md)
+👉 [1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Mangmi_Air_X_PS2_Full_List_Default.md)
 
 ---
 
