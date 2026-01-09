@@ -29,7 +29,7 @@ This project focuses on:
 
 - [Project Philosophy](#-project-philosophy)
 - [Lists Overview](#-lists-overview)
-  - [1. Full PS2 Default List](#1-full-ps2-default-list)
+  - [1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Mangmi_Air_X_PS2_Default_List.md)
   - [2. PS2 Tweaked Game List](#2-ps2-tweaked-game-list)
   - [3. NetherSX2 Game List](#3-nethersx2-game-list)
 - [How to Use These Lists](#-how-to-use-these-lists)
