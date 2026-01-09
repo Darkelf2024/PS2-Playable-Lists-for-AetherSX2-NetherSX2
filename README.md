@@ -65,7 +65,7 @@ This project focuses on:
 - Great starting point for new users or lower-end devices
 
 ➡️ **Open the list:**  
-👉 [`lists/ps2-default-playable.md`](lists/ps2-default-playable.md)
+👉 [[1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Mangmi_Air_X_PS2_Full_List_Default.md)
 
 ---
 
@@ -84,7 +84,7 @@ Each entry explains:
 - Whether it’s optional or required
 
 ➡️ **Open the list:**  
-👉 [`lists/ps2-tweaked-playable.md`](lists/ps2-tweaked-playable.md)
+👉 [2. PS2 Tweaked Game List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/PS2%20Tweaked%20Game%20List.md)
 
 ---
 
