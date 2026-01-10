@@ -103,7 +103,7 @@ Useful for:
 - Edge cases
 
 ➡️ **Open the list:**  
-👉 [`lists/ps2-nethersx2-playable.md`]([lists/ps2-nethersx2-playable.md](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/NetherSX2_PS2_Game_List.md))
+👉 [NetherSX2 PS2 Game List]([lists/ps2-nethersx2-playable.md](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/NetherSX2_PS2_Game_List.md))
 
 ---
 
