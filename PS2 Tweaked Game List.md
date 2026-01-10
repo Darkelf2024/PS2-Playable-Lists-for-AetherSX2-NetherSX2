@@ -22,14 +22,13 @@ Source: PS2 Tweaked Game List.xlsx
 | 16 | Godzilla: Save the Earth | -3 | Default | Performance | 3 | Vulkan | PAL | Great | Async Mix | Few Dips | 30m Playtime | AetherSX2-3668 |
 | 17 | Jak and Daxter | -3 | -1 | Performance | 3 | Vulkan | PAL | Great | Async Mix | Sm Dip | 30m Playtime | AetherSX2-3668 |
 | 18 | Jet Li Rise to Honor | -3 | -1 | Performance | 3 | Vulkan | PAL | Great | Async Mix | Sm Dip | 30m Playtime | AetherSX2-3668 |
-| 19 | Black | -3 | -1 | Performance | 3 | Vulkan | PAL | Great | Async Mix | Sm Dip | 30m Playtime | AetherSX2-3668 |
-| 20 | Gauntlet Dark Legacy | -3 | -3 | Performance | 3 | OpenGL | PAL | Great | Async Mix | - | 30m Playtime | AetherSX2-3668 |
-| 21 | Justice League Heroes | -3 | -2 | Performance | 3 | Vulkan | PAL | Great | Async Mix | - | 30m Playtime | AetherSX2-3668 |
-| 22 | Manhunt | -2 | Default | Performance | 3 | Vulkan | PAL | Great | Async Mix | - | 30m Playtime | AetherSX2-3668 |
-| 23 | OutRun 2006 | -3 | -3 | Performance | 3 | Software | PAL | Great | Async Mix | Dips | 30m Playtime | AetherSX2-3668 |
-| 24 | Pro Evolution Soccer 2008 | -3 | -1 | Performance | 3 | Vulkan | PAL | Great | Async Mix | Few Dips | 30m Playtime | AetherSX2-3668 |
-| 25 | PES 2011 | -3 | -1 | Performance | 3 | Vulkan | PAL | Great | Async Mix | Few Dips | 30m Playtime | AetherSX2-3668 |
-| 26 | Sly Cooper | -3 | -3 | Performance | 3 | Vulkan | PAL | Good | Async Mix | Dips | 30m Playtime | AetherSX2-3668 |
-| 27 | Spider-Man 3 | -3 | Default | Performance | 3 | Vulkan | PAL | Excellent | Async Mix | Sm Dip | 30m Playtime | AetherSX2-3668 |
-| 28 | Star Wars Battlefront II | -3 | -3 | Performance | 3 | Vulkan | PAL | Good | Async Mix | - | 30m Playtime | AetherSX2-3668 |
-| 29 | Ty 2: Bush Rescue | -2 | -1 | Performance | 3 | Vulkan | PAL | Great | Async Mix | Sm Dip | 30m Playtime | AetherSX2-3668 |
+| 19 | Gauntlet Dark Legacy | -3 | -3 | Performance | 3 | OpenGL | PAL | Great | Async Mix | - | 30m Playtime | AetherSX2-3668 |
+| 20 | Justice League Heroes | -3 | -2 | Performance | 3 | Vulkan | PAL | Great | Async Mix | - | 30m Playtime | AetherSX2-3668 |
+| 21 | Manhunt | -2 | Default | Performance | 3 | Vulkan | PAL | Great | Async Mix | - | 30m Playtime | AetherSX2-3668 |
+| 22 | OutRun 2006 | -3 | -3 | Performance | 3 | Software | PAL | Great | Async Mix | Dips | 30m Playtime | AetherSX2-3668 |
+| 23 | Pro Evolution Soccer 2008 | -3 | -1 | Performance | 3 | Vulkan | PAL | Great | Async Mix | Few Dips | 30m Playtime | AetherSX2-3668 |
+| 24 | PES 2011 | -3 | -1 | Performance | 3 | Vulkan | PAL | Great | Async Mix | Few Dips | 30m Playtime | AetherSX2-3668 |
+| 25 | Sly Cooper | -3 | -3 | Performance | 3 | Vulkan | PAL | Good | Async Mix | Dips | 30m Playtime | AetherSX2-3668 |
+| 26 | Spider-Man 3 | -3 | Default | Performance | 3 | Vulkan | PAL | Excellent | Async Mix | Sm Dip | 30m Playtime | AetherSX2-3668 |
+| 27 | Star Wars Battlefront II | -3 | -3 | Performance | 3 | Vulkan | PAL | Good | Async Mix | - | 30m Playtime | AetherSX2-3668 |
+| 28 | Ty 2: Bush Rescue | -2 | -1 | Performance | 3 | Vulkan | PAL | Great | Async Mix | Sm Dip | 30m Playtime | AetherSX2-3668 |
