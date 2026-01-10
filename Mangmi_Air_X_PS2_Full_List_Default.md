@@ -36,8 +36,6 @@ This is a **full Markdown conversion** of the original Excel file, including not
 | 16 | Batman: Rise of Sin Tzu | Default | Default | Performance | 3.0 | Vulkan | PAL | Excellent | Async Mix | - | 30m Playtime | AetherSX2-3668 |
 | 17 | Ben 10: Protector of Earth | Default | Default | Performance | 3.0 | Vulkan | PAL | Excellent | Async Mix | - | 30m Playtime | AetherSX2-3668 |
 | 19 | Bloody Roar | Default | Default | Performance | 3.0 | Vulkan | PAL | Excellent | Async Mix | Few Dips | 30m Playtime | AetherSX2-3668 |
-| 21 | Burnout Dominator | Default | Default | Performance | 3.0 | Vulkan | PAL | Great | Async Mix | Few Dips | 30m Playtime | AetherSX2-3668 |
-| 22 | Burnout Revenge | Default | Default | Performance | 3.0 | Vulkan | PAL | Excellent | Async Mix | - | 30m Playtime | AetherSX2-3668 |
 | 23 | Capcom vs. SNK 2 | Default | Default | Performance | 3.0 | Vulkan | PAL | Excellent | Async Mix | - | 30m Playtime | AetherSX2-3668 |
 | 24 | Castlevania: Curse of Darkness | Default | Default | Performance | 3.0 | Vulkan | PAL | Excellent | Async Mix | - | 30m Playtime | AetherSX2-3668 |
 | 25 | City Crisis | Default | Default | Performance | 3.0 | Vulkan | PAL | - | Async Mix | - | - | - |
