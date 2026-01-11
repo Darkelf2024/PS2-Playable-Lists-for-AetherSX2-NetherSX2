@@ -1,6 +1,6 @@
 # PS2 Tweaked Game List – Markdown Conversion
 
-Source: PS2 Tweaked Game List.xlsx
+If a Game Needs Retesting - Please let me know! I will retest it and update the list.
 
 | # | Game | EE Cycle Rate | EE Skip | Affinity Control | Vsync/Threads | Graphics | Region | Gameplay | Audio | Issues | Validation | Tested |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
