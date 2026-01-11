@@ -2,7 +2,9 @@
 
 This is a **full Markdown conversion** of the original Excel file, including notes and recommended settings.
 
-**Total entries:** 164
+**Total entries:** 161
+
+If a Game Needs Retesting - Please let me know! I will retest it and update the list.
 
 ---
 
