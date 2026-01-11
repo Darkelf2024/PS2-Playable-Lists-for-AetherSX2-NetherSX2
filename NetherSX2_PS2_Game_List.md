@@ -1,4 +1,4 @@
-# NetherSX2 PS2 Game Compatibility List
+# NetherSX2 PS2 Game Compatibility List - If a Game Needs Retesting - Please let me know! I will retest it and update the list.
 
 | Game                         | EE Cycle Rate   | EE Skip   | Affinity Control   |   Vsync/Threads | Blending   | Graphics   | Hardware Download   | Region   | Gameplay   | Audio     | Issues           | Validation   | Tested    |
 |:-----------------------------|:----------------|:----------|:-------------------|----------------:|:-----------|:-----------|:--------------------|:---------|:-----------|:----------|:-----------------|:-------------|:----------|
