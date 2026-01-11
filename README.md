@@ -50,8 +50,7 @@ This project focuses on:
   NetherSX2 behaves differently from AetherSX2 in some cases — those differences matter.
 
 - **Tested, not theoretical**  
-  Entries are based on real gameplay sessions, not boot screens.
-
+  Entries are based on real gameplay sessions, not boot Settings listed here are game-specific and tested. Some EE-heavy titles require moderate EE undercycle/skip to maintain near-target PAL pacing on mobile hardware. These are documented exceptions, not global fixes, and were validated for correct behavior—not just FPS.
 ---
 
 ## 📂 Lists Overview
