@@ -8,7 +8,6 @@
 | FIFA Street 2                           |              -3 | -3        | Performance        |               3 | Vulkan     | PAL      | Excellent  | Async Mix | nan      | 30m Playtime | AetherSX2-3668 |
 | Fight Night Round 2                     |              -3 | -2        | Performance        |               3 | Vulkan     | PAL      | Excellent  | Async Mix | nan      | 30m Playtime | AetherSX2-3668 |
 | Fight Night Round 3                     |              -3 | -1        | Performance        |               3 | Vulkan     | PAL      | Excellent  | Async Mix | nan      | 30m Playtime | AetherSX2-3668 |
-| Gauntlet Dark Legacy                    |              -3 | -3        | Performance        |               3 | OpenGL     | PAL      | Great      | Async Mix | nan      | 30m Playtime | AetherSX2-3668 |
 | Ghost Rider                             |              -3 | -3        | Performance        |               3 | Vulkan     | PAL      | Excellent  | Async Mix | nan      | 30m Playtime | AetherSX2-3668 |
 | God Hand                                |              -3 | -2        | Performance        |               3 | Vulkan     | PAL      | Great      | Async Mix | Sm Dip   | 30m Playtime | AetherSX2-3668 |
 | God of War                              |              -3 | -3        | Performance        |               3 | Vulkan     | PAL      | Excellent  | Async Mix | Sm Dip   | 30m Playtime | AetherSX2-3668 |
