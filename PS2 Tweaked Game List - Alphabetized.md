@@ -1,6 +1,5 @@
 | Game                                    |   EE Cycle Rate | EE Skip   | Affinity Control   |   Vsync/Threads | Graphics   | Region   | Gameplay   | Audio     | Issues   | Validation   | Tested         |
 |:----------------------------------------|----------------:|:----------|:-------------------|----------------:|:-----------|:---------|:-----------|:----------|:---------|:-------------|:---------------|
-| Bully                                   |              -2 | -2        | Performance        |               3 | Vulkan     | US       | Great      | Async Mix | Few Dips | 30m Playtime | AetherSX2-3668 |
 | Call of Duty: Finest Hour               |              -2 | -2        | Performance        |               3 | Vulkan     | PAL      | Excellent  | Async Mix | nan      | 30m Playtime | AetherSX2-3668 |
 | Castlevania: Lament of Innocence        |              -2 | Default   | Performance        |               3 | Vulkan     | US       | Great      | Async Mix | nan      | 30m Playtime | AetherSX2-3668 |
 | Devil May Cry                           |              -3 | Default   | Performance        |               3 | Vulkan     | PAL      | Great      | Async Mix | nan      | 30m Playtime | AetherSX2-3668 |
