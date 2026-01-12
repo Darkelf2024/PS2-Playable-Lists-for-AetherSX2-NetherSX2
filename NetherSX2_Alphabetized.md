@@ -2,6 +2,7 @@
 
 | Game                         | EE Cycle Rate   | EE Skip   | Affinity Control   |   Vsync/Threads | Blending   | Graphics   | Hardware Download   | Region   | Gameplay   | Audio     | Issues           | Validation   | Tested    |
 |:-----------------------------|:----------------|:----------|:-------------------|----------------:|:-----------|:-----------|:--------------------|:---------|:-----------|:----------|:-----------------|:-------------|:----------|
+| Bully                        | -3              | -1        | Performance        |               3 | Ultra      | OpenGL     | Unsynchronized      | US       | Great      | Async Mix | SM Dip           | 30m Playtime | NetherSX2 |
 | ACE Combat: Distant Thunder  | -3              | -1        | Performance        |               3 | Medium     | Vulkan     | Unsynchronized      | PAL      | Great      | Async Mix | SM Texture/Plane | 30m Playtime | NetherSX2 |
 | ACE Combat: Squandron Leader | -3              | -3        | Disabled           |               3 | Medium     | Vulkan     | Accurate            | PAL      | Great      | Async Mix | SM Dip           | 30m Playtime | NetherSX2 |
 | ATV Off Road: Off Road Fury  | -3              | -1        | Disabled           |               3 | Ultra      | Vulkan     | Accurate            | PAL      | Excellent  | Async Mix | nan              | 30m Playtime | NetherSX2 |
