@@ -2,7 +2,7 @@
 
 This is a **full Markdown conversion** of the original Excel file, including notes and recommended settings.
 
-**Total entries:** 161
+**Total entries:** 160
 
 If a Game Needs Retesting - Please let me know! I will retest it and update the list.
 
@@ -107,7 +107,6 @@ If a Game Needs Retesting - Please let me know! I will retest it and update the 
 | 90 | Musashi: Samurai Legends | Default | Default | Performance | 3.0 | Vulkan | PAL | Great | Async Mix | Slight Dip | 30m Playtime | AetherSX2-3668 |
 | 91 | NBA Street Vol. 1 | Default | Default | Performance | 3.0 | Vulkan | PAL | Great | Async Mix | - | 30m Playtime | AetherSX2-3668 |
 | 92 | Need for Speed: Most Wanted | Default | Default | Performance | 3.0 | Vulkan | PAL | Excellent | Async Mix | - | 30m Playtime | AetherSX2-3668 |
-| 93 | Need for Speed: Underground | Default | Default | Performance | 3.0 | Vulkan | PAL | Excellent | Async Mix | - | 30m Playtime | AetherSX2-3668 |
 | 94 | Neo Contra | Default | Default | Performance | 3.0 | Vulkan | PAL | Ecellent | Async Mix | - | 30m Playtime | AetherSX2-3668 |
 | 95 | NFL Street | Default | Default | Performance | 3.0 | Vulkan | PAL | Excellent | Async Mix | - | 30m Playtime | AetherSX2-3668 |
 | 96 | NHL 2002 | Default | Default | Performance | 3.0 | Vulkan | PAL | Excellent | Async Mix | - | 30m Playtime | AetherSX2-3668 |
