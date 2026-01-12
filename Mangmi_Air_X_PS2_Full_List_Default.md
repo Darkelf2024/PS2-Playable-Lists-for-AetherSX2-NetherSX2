@@ -13,10 +13,6 @@ If a Game Needs Retesting - Please let me know! I will retest it and update the 
 
 ---
 
-## Source
-
-- Mangmi_Air_X_PS2_List_A-Z_With_Notes_Fixed.xlsx
-
 
 | # | Game | EE Cycle Rate | EE Skip | Affinity Control | Vsync/Threads | Graphics | Region | Gameplay | Audio | Issues | Validation | Tested |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
