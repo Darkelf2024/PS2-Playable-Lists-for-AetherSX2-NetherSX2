@@ -1,6 +1,6 @@
 # NetherSX2 Compatibility List (Alphabetized)
 
-| Audio - Interpolation Mode: L = Linear Synchronization Mode: TS = TimeStretch
+Audio Settings - Interpolation Mode: L = Linear Synchronization Mode: TS = TimeStretch
 
 | Game                         | EE Cycle Rate   | EE Skip   | Affinity Control   |   Vsync/Threads | Blending   | Graphics   | Hardware Download   | Region   | Gameplay   | Audio     | Issues           | Validation   | Tested    |
 |:-----------------------------|:----------------|:----------|:-------------------|----------------:|:-----------|:-----------|:--------------------|:---------|:-----------|:----------|:-----------------|:-------------|:----------|
