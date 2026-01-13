@@ -1,6 +1,8 @@
-# 🎮 PS2 Playable Lists for AetherSX2 & NetherSX2
+# 🎮 PS2 Lists for AetherSX2 & NetherSX2
 
 > Curated, tested PlayStation 2 compatibility lists focused on **real playability**, not just booting.
+
+This repository documents PS2 behavior on low-power Android handhelds. Internal G may be below native PAL/NTSC targets while maintaining correct pacing, audio sync, and gameplay feel.
 
 This repository contains **three structured PS2 game lists** for **AetherSX2** and **NetherSX2**, designed to help users quickly determine:
 - Which games run well
