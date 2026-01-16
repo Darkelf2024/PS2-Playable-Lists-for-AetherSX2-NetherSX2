@@ -9,7 +9,8 @@ This repository contains **three structured PS2 game lists** for **AetherSX2** a
 - Whether tweaks are required
 - Which emulator behaves best for a given title
 - If any game needs retesting - Let me know and I'll be happy to retest it - No Problem!
-
+- Lists are being refined and constantly retested for improvements 
+- These lists reflect subjective playability based on hands-on testing, not technical accuracy benchmarks or guarantees.
 ---
 
 ## 📌 Why This Repository Exists
