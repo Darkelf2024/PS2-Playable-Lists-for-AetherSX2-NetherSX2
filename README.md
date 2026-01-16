@@ -45,7 +45,7 @@ This project focuses on:
 ## 🎯 Project Philosophy
 
 - **Defaults first**  
-  Most playable PS2 games should work using safe, default emulator settings.
+  Most playable PS2 games should work using optimal, default emulator settings.
 
 - **Tweaks only when needed**  
   Tweaks are documented only when they provide meaningful improvements.
