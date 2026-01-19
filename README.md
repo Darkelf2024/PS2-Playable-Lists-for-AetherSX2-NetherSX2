@@ -94,9 +94,8 @@ Useful for:
 ## 🧭 How to Use These Lists
 
 1. Start with the **Full PS2 Default List**
-2. If performance issues occur → check the **Tweaked Game List**
-3. If using NetherSX2 → consult the **NetherSX2 List**
-4. Apply only the tweaks listed — avoid unnecessary changes
+2. If using NetherSX2 → consult the **NetherSX2 List**
+3. Apply only the tweaks listed — avoid unnecessary changes
 
 ---
 
