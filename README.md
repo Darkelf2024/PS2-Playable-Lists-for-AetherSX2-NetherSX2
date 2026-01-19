@@ -33,9 +33,9 @@ This project focuses on:
 
 - [Project Philosophy](#-project-philosophy)
 - [Lists Overview](#-lists-overview)
-  - [1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Mangmi_Air_X_PS2_Full_List_Default.md)
-  - [2. PS2 Tweaked Game List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/PS2%20Tweaked%20Game%20List%20-%20Alphabetized.md)
-  - [3. NetherSX2 Game List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/NetherSX2_Alphabetized.md)
+  - [1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Maintenance%20Notice.md)
+  - [2. PS2 Tweaked Game List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Maintenance%20Notice.md)
+  - [3. NetherSX2 Game List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Maintenance%20Notice.md)
 - [How to Use These Lists](#-how-to-use-these-lists)
 - [Notes & Disclaimer](#️-notes--disclaimer)
 - [Status](#-status)
@@ -68,26 +68,7 @@ This project focuses on:
 - Great starting point for new users or lower-end devices
 
 ➡️ **Open the list:**  
-👉 [1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Mangmi_Air_X_PS2_Full_List_Default.md)
-
----
-
-### 2️⃣ PS2 Tweaked Game List
-
-**Games that are playable but benefit from specific tweaks.**
-
-Includes:
-- EE Cycle / Skip changes
-- Renderer adjustments
-- Performance or audio fixes
-
-Each entry explains:
-- What to tweak
-- Why it helps
-- Whether it’s optional or required
-
-➡️ **Open the list:**  
-👉 [2. PS2 Tweaked Game List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/PS2%20Tweaked%20Game%20List%20-%20Alphabetized.md)
+👉 [1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Maintenance%20Notice.md)
 
 ---
 
@@ -106,7 +87,7 @@ Useful for:
 - Edge cases
 
 ➡️ **Open the list:**  
-👉 [NetherSX2 PS2 Game List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/NetherSX2_Alphabetized.md)
+👉 [NetherSX2 PS2 Game List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Maintenance%20Notice.md)
 
 ---
 
