@@ -2,10 +2,13 @@
 
 This is a **full Markdown conversion** of the original Excel file, including notes and recommended settings.
 
-If a Game Needs Retesting - Please let me know! I will retest it and update the list.
-
 Please Read [Definitions List](https://github.com/Darkelf2024/Darkelf-Retro-Lounge/blob/main/Darkelf%20Lounge%20Definitions%20List.md)
 Please Read [Legal Notice & Disclaimer](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Legal_Notice_and_Disclaimer.md)
+
+If a Game Needs Retesting - Please let me know! I will retest it and update the list.
+
+This List is still a work in progress - Games that were removed will be added to the Nethers List in a few days
+
 ---
 
 ## Master Table
