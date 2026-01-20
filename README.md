@@ -86,7 +86,7 @@ Useful for:
 - Edge cases
 
 ➡️ **Open the list:**  
-👉 [NetherSX2 PS2 Game List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Maintenance%20Notice.md)
+👉 [NetherSX2 PS2 Game List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/NetherSX2_Game_List_A-Z.md)
 
 ---
 
