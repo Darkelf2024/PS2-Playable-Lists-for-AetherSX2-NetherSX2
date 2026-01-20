@@ -22,7 +22,7 @@ This project is maintained as a **community-driven, hobbyist resource**.
 
 Terminology used throughout this project follows the **Darkelf Lounge Definitions List**:
 
-https://github.com/Darkelf2024/Darkelf-Retro-Lounge/blob/main/Darkelf%20Lounge%20Definitions%20List.md
+Please See [Darkelf Definitions List](https://github.com/Darkelf2024/Darkelf-Retro-Lounge/blob/main/Darkelf%20Lounge%20Definitions%20List.md)
 
 ---
 
