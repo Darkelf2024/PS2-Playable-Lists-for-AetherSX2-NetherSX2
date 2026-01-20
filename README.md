@@ -105,6 +105,7 @@ Useful for:
 - PAL versions are generally recommended
 - Emulator updates may change behavior
 - These lists will evolve with continued testing
+- Please Read [Legal Notice & Notice](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Legal_Notice_and_Disclaimer.md)
 
 ---
 
