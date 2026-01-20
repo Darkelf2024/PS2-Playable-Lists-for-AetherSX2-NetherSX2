@@ -48,6 +48,7 @@
 | Okami | -3 | Default | Disabled | 3 | Ultra | Vulkan | Accurate | PAL | Async Mix |
 | OutRun 2006 | -3 | -3 | Performance | 3 | — | Software | — | PAL | Async Mix |
 | PES 2011 | -3 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
+| Peter Jackson King Kong | -3 | -1 | Performance | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
 | Pro Evolution Soccer 2008 | -3 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Red Faction | -3 | -1 | Disabled | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
 | Red Faction II | -3 | -2 | Disabled | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
