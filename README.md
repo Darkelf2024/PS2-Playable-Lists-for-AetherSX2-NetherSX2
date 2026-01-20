@@ -33,7 +33,7 @@ This project focuses on:
 
 - [Project Philosophy](#-project-philosophy)
 - [Lists Overview](#-lists-overview)
-  - [1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Maintenance%20Notice.md)
+  - [1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Mangmi_Air_X_PS2_Full_List_2026.md)
   - [2. NetherSX2 Game List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/NetherSX2_Game_List_A-Z.md)
 - [How to Use These Lists](#-how-to-use-these-lists)
 - [Notes & Disclaimer](#️-notes--disclaimer)
@@ -67,7 +67,7 @@ This project focuses on:
 - Great starting point for new users or lower-end devices
 
 ➡️ **Open the list:**  
-👉 [1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Maintenance%20Notice.md)
+👉 [1. Full PS2 Default List](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Mangmi_Air_X_PS2_Full_List_2026.md)
 
 ---
 
