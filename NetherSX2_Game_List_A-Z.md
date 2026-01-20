@@ -54,7 +54,7 @@
 | Red Faction II | -3 | -2 | Disabled | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
 | Rumble Racing | 0 | 0 | Disabled | 3 | Ultra | Vulkan | Disabled | PAL | Async Mix |
 | Shox | -3 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
-| Soul Calibur II | -3 | -1 | Performance | 3 | Ultra | OpenGL | Disabled Readbacks | PAL | Async Mix |
+| Soul Calibur II | -2 | -1 | Performance | 3 | Ultra | OpenGL | Disabled Readbacks | PAL | Async Mix |
 | Sly Cooper | -3 | -3 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Spider-Man 3 | -3 | Default | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | SSX On Tour | -1 | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
