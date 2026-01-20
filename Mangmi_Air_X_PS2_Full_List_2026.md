@@ -134,7 +134,6 @@ This List is still a work in progress - Games that were removed will be added to
 | SOCOM 3 | -1 | -1 | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Sonic Heroes | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Sonic Unleashed | -1 | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
-| Soulcalibur II | -1 | Default | Performance | 3.0 | OpenGL | PAL | Async Mix |
 | Spider-Man | Default | Default | Performance | 3.0 | OpenGL | PAL | Async Mix |
 | Spider-Man 2 | -1 | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Star Wars Force Unleashed | -1 | -1 | Performance | 3.0 | Vulkan | PAL | Async Mix |
