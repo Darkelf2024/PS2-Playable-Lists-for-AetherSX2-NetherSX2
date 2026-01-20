@@ -58,6 +58,7 @@
 | SSX On Tour | -1 | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Star Wars Battlefront II | -3 | -3 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Thrillville: Off the Rails | -1 | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
+| Timesplitters: Black | Default | Default | Performance | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
 | Twisted Metal: Black | Default | Default | Performance | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Ty 2: Bush Rescue | -2 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Urban Reign | -1 | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
