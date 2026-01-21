@@ -10,9 +10,11 @@
 |:-----|:--------------|:--------|:-----------------|--------------:|:---------|:---------|:------------------|:-------|:------|
 | 4x4 Evo | -1 | Default | Performance | 3 | Ultra | Vulkan | Disabled | PAL | Async Mix |
 | AND1 Streetball | -3 | -1 | Performance | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
+| Anubis II | Default | -1 | Performance | 3 | Ultra | Vulkan | - | PAL | Async Mix |
 | ACE Combat: Distant Thunder | -3 | -1 | Performance | 3 | Medium | Vulkan | Unsynchronized | PAL | Async Mix |
 | ACE Combat: Squandron Leader | -3 | -3 | Disabled | 3 | Medium | Vulkan | Accurate | PAL | Async Mix |
 | ATV Off Road: Off Road Fury | -3 | -1 | Disabled | 3 | Ultra | Vulkan | Accurate | PAL | Async Mix |
+| Air Raid 3 | Default | -1 | Performance | 3 | Ultra | Vulkan | Disabled | PAL | Async Mix |
 | Black | -3 | -2 | Disabled | 3 | Full | Vulkan | Accurate | PAL | Async Mix |
 | Bloody Roar 4 | -3 | Default | Disabled | 3 | Ultra | Vulkan | Accurate | PAL | Async Mix |
 | Bully | -3 | -1 | Performance | 3 | Ultra | OpenGL | Unsynchronized | US | Async Mix |
