@@ -8,8 +8,8 @@
 
 | Game | EE Cycle Rate | EE Skip | Affinity Control | Vsync/Threads | Blending | Graphics | Hardware Download | Region | Audio |
 |:-----|:--------------|:--------|:-----------------|--------------:|:---------|:---------|:------------------|:-------|:------|
-| 4x4 Evo | -1 | Default | Performance | 3 | Medium | Vulkan | Disabled | PAL | Async Mix |
-| AND1 Streetball | -3 | -1 | Performance | 3 | Medium | Vulkan | Unsynchronized | PAL | Async Mix |
+| 4x4 Evo | -1 | Default | Performance | 3 | Ultra | Vulkan | Disabled | PAL | Async Mix |
+| AND1 Streetball | -3 | -1 | Performance | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | ACE Combat: Distant Thunder | -3 | -1 | Performance | 3 | Medium | Vulkan | Unsynchronized | PAL | Async Mix |
 | ACE Combat: Squandron Leader | -3 | -3 | Disabled | 3 | Medium | Vulkan | Accurate | PAL | Async Mix |
 | ATV Off Road: Off Road Fury | -3 | -1 | Disabled | 3 | Ultra | Vulkan | Accurate | PAL | Async Mix |
