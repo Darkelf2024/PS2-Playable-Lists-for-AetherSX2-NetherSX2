@@ -38,7 +38,7 @@ This project focuses on:
 - [How to Use These Lists](#-how-to-use-these-lists)
 - [Notes & Disclaimer](#️-notes--disclaimer)
 - [Status](#-status)
-- [Playtest Gameplay Recordings](https://e.pcloud.link/publink/show?code=kZNo0aZR6R1FcTJB00MBPB4IMhnrLe38vay)
+- [Darkelf Retro Channel](https://video.hardlimit.com/c/ps2_on_mangmi/videos)
 
 ---
 
