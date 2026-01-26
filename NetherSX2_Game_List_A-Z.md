@@ -62,8 +62,8 @@
 | Pro Evolution Soccer 2008 | -3 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Red Faction | -3 | -1 | Disabled | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
 | Red Faction II | -3 | -2 | Disabled | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
-| Resident Evil 4 | -2 | 0 | Disabled | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
-| Rumble Racing | 0 | 0 | Disabled | 3 | Ultra | Vulkan | Disabled | PAL | Async Mix |
+| Resident Evil 4 | -2 | Default | Disabled | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
+| Rumble Racing | Default | Default | Disabled | 3 | Ultra | Vulkan | Disabled | PAL | Async Mix |
 | Shox | -3 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Soul Calibur II | -2 | -1 | Performance | 3 | Ultra | OpenGL | Disabled Readbacks | PAL | Async Mix |
 | Sly Cooper | -3 | -3 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
