@@ -64,6 +64,7 @@
 | Red Faction II | -3 | -2 | Disabled | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
 | Resident Evil 4 | -2 | Default | Disabled | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
 | Rumble Racing | Default | Default | Disabled | 3 | Ultra | Vulkan | Disabled | PAL | Async Mix |
+| Shinobi | Default | Default | Disabled | 3 | Ultra | Vulkan | Accurate | PAL | Async Mix |
 | Shox | -3 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Soul Calibur II | -2 | -1 | Performance | 3 | Ultra | OpenGL | Disabled Readbacks | PAL | Async Mix |
 | Sly Cooper | -3 | -3 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
