@@ -9,6 +9,7 @@
 | Game | EE Cycle Rate | EE Skip | Affinity Control | Vsync/Threads | Blending | Graphics | Hardware Download | Region | Audio |
 |:-----|:--------------|:--------|:-----------------|--------------:|:---------|:---------|:------------------|:-------|:------|
 | 4x4 Evo | -1 | Default | Performance | 3 | Ultra | Vulkan | Disabled | PAL | Async Mix |
+| 4x4 Evo 2 | -3 | Default | Perfrmance | 3 | Ultra | Vulkan | - | PAL | Async Mix |
 | AND1 Streetball | -3 | -1 | Performance | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Anubis II | Default | -1 | Performance | 3 | Ultra | Vulkan | Accurate | PAL | Async Mix |
 | ACE Combat: Distant Thunder | -3 | -1 | Performance | 3 | Medium | Vulkan | Unsynchronized | PAL | Async Mix |
@@ -23,11 +24,16 @@
 | Call of Duty: Finest Hour | -2 | -2 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Castlevania: Lament of Innocence | -2 | Default | Performance | 3 | — | Vulkan | — | US | Async Mix |
 | Chaos Legion | -3 | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
+| Crazy Taxi | Default | Default | Disabled | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
+| Def Jam: Fight For NY | -3 | -2 | Dsiabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Devil May Cry | -3 | Default | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
+| ESPN NBA 2K5 | -3 | -2 | Disabled | 3 | Ultra | Vulkan | - | PAL | Async Mix |
+| F1 2002 | -3 | Default | Performance | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
 | FIFA Street 2 | -3 | -3 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Fight Night Round 2 | -3 | -2 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Fight Night Round 3 | -3 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Final Fantasy X-2 | -3 | -2 | Performance | 3 | Ultra | Software | Unsynchronized | PAL | Async Mix |
+| Fire Blade | -3 | -1 | Disabled | 3 | Ultra| Vulkan | - | PAL | Async Mix |
 | Gauntlet Dark Legacy | -2 | -2 | Performance | 3 | Ultra | OpenGL | Accurate | PAL | Async Mix |
 | Ghost Rider | -3 | -3 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | God Hand | -3 | -2 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
