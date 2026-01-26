@@ -115,9 +115,6 @@ This List is still a work in progress - Games that were removed will be added to
 | Psi-Ops: The Mindgate Conspiracy | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Quake III: Revolution | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | R-TYPE Final | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
-| Ratchet & Clank | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
-| Ratchet & Clank: Going Commando | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
-| Ratchet: Deadlocked | Default | Default | Performance | 3.0 | Vulkan | PAL/US | Async Mix |
 | Red Dead Revolver | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Resident Evil: Dead Aim | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Rocky Legends | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
