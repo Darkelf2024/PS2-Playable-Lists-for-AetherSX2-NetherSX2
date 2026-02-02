@@ -25,8 +25,9 @@
 | Castlevania: Lament of Innocence | -2 | Default | Performance | 3 | — | Vulkan | — | US | Async Mix |
 | Chaos Legion | -3 | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Crazy Taxi | Default | Default | Disabled | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
-| Def Jam: Fight For NY | -3 | -2 | Dsiabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
+| Def Jam: Fight For NY | -3 | -2 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Devil May Cry | -3 | Default | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
+| Downhill Domination | Default | Default | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | ESPN NBA 2K5 | -3 | -2 | Disabled | 3 | Ultra | Vulkan | - | PAL | Async Mix |
 | F1 2002 | -3 | Default | Performance | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
 | FIFA Street 2 | -3 | -3 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
@@ -47,11 +48,13 @@
 | Manhunt | -2 | Default | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Marvel: Ultimate Alliance | -2 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Medal of Honor: Frontline | -3 | Default | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
+| Metal Slug Anthology | Default | Default | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Micro Machines v4 | -3 | -1 | Disabled | 3 | Ultra | Vulkan | Accurate | PAL | Async Mix |
 | Midnight Club 2 | -1 | Default | Disabled | 3 | Ultra | Vulkan | Accurate | PAL | Async Mix |
 | Mortal Kombat: Armageddon | -3 | -3 | Disabled | 3 | Ultra | OpenGL | Accurate | PAL | Async Mix |
 | Mortal Kombat: Deception | -3 | -3 | Disabled | 3 | Ultra | Vulkan | Disabled | PAL | Async Mix |
 | Mortal Kombat: Shaolin Monks | -3 | -3 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
+| Naruto Shippuden - Ultimate Ninja 5 | Default | Default | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | NBA Street Vol. 3 | -1 | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Need for Speed: Hot Pursuit 2 | -3 | -1 | Disabled | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
 | Need for Speed: Underground | -3 | -2 | Performance | 3 | Ultra | OpenGL | Unsynchronized | PAL | L/TS |
@@ -70,10 +73,14 @@
 | Sly Cooper | -3 | -3 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Spider-Man 3 | -3 | Default | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | SSX On Tour | -1 | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
+| SSX Tricky | Default | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Star Wars Battlefront II | -3 | -3 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Thrillville: Off the Rails | -1 | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Timesplitters | Default | Default | Performance | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
+| Tony Hawk's Pro Skater 3 | -3 | Default | Disabled | 3 | Ultra | Vulkan | Accurate | PAL | Async Mix |
 | Twisted Metal: Black | -2 | -2 | Performance | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
 | Ty 2: Bush Rescue | -2 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Urban Reign | -1 | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Valkyrie Profile 2 | -3 | -3 | Performance | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
+| Vexx | -1 | Default | Disabled | 3 | Ultra | Vulkan | Accurate | PAL | Async Mix |
+| WWE Smackdown! - Here Comes the Pain | Default | Default | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
