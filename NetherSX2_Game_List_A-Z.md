@@ -24,7 +24,7 @@
 | Call of Duty: Finest Hour | -2 | -2 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Castlevania: Lament of Innocence | -2 | Default | Performance | 3 | — | Vulkan | — | US | Async Mix |
 | Chaos Legion | -3 | -1 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
-| Crash Twinsanity | -3 | -1 | Performance | 3.0 | Vulkan | PAL | Async Mix |
+| Crash Twinsanity | -3 | -1 | Performance | 3.0 | Vulkan || Accurate | PAL | Async Mix |
 | Crazy Taxi | Default | Default | Disabled | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
 | Def Jam: Fight For NY | -3 | -2 | Disabled | 3 | Ultra | Vulkan | Unsynchronized | PAL | Async Mix |
 | Devil May Cry | -3 | Default | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
