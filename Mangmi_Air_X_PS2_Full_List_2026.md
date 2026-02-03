@@ -44,7 +44,6 @@ This List is still a work in progress - Games that were removed will be added to
 | Contra: Shattered Soldier | -1 | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Crash Bandicoot: The Wrath of Cortex | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Crash Team Racing | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
-| Crash Twinsanity | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Crash: Wrath of Cortex | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Dark Cloud | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Dark Cloud II | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
