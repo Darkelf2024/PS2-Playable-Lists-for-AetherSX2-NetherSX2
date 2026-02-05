@@ -38,7 +38,6 @@ This project focuses on:
 - [How to Use These Lists](#-how-to-use-these-lists)
 - [Notes & Disclaimer](#️-notes--disclaimer)
 - [Status](#-status)
-- [Darkelf Retro Gameplay Videos](https://e.pcloud.link/publink/show?code=kZNo0aZR6R1FcTJB00MBPB4IMhnrLe38vay)
 
 ---
 
