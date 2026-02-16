@@ -100,7 +100,6 @@ This List is still a work in progress - Games that were removed will be added to
 | Maximo: Ghosts to Glory | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Mercenaries: Playground of Destruction | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | NBA Street Vol. 1 | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
-| Need for Speed: Most Wanted | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Neo Contra | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | NHL 2002 | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
 | Nickelodeon Jimmy Neutron: Revenge of the Twonkies | Default | Default | Performance | 3.0 | Vulkan | PAL | Async Mix |
