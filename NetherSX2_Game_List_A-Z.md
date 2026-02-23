@@ -5,6 +5,7 @@
 - List is fully alphabetized by game title.
 - Please Read [Legal Notice & Disclaimer](https://github.com/Darkelf2024/PS2-Playable-Lists-for-AetherSX2-NetherSX2/blob/main/Legal_Notice_and_Disclaimer.md)
 - Please Read [Darkelf Definitions List](https://github.com/Darkelf2024/Darkelf-Retro-Lounge/blob/main/Darkelf%20Lounge%20Definitions%20List.md)
+- Lists will continue to be updated as games are tested!
 
 | Game | EE Cycle Rate | EE Skip | Affinity Control | Vsync/Threads | Blending | Graphics | Hardware Download | Region | Audio |
 |:-----|:--------------|:--------|:-----------------|--------------:|:---------|:---------|:------------------|:-------|:------|
@@ -41,8 +42,11 @@
 | God Hand | -3 | -2 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | God of War | -3 | -3 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Godzilla: Save the Earth | -3 | Default | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
+| GTA 3 | -2 | -3 | Disabled | 3 | — | Vulkan | — | PAL | Async Mix |
+| Indigo Prophecy | -1 | -1 | Disabled | 3 | — | Vulkan | — | PAL | Async Mix |
 | Jak and Daxter | -3 | -1 | Disabled | 3 | Ultra | OpenGL | Accurate | PAL | Async Mix |
 | Jet Li: Rise to Honor | -3 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
+| Juiced 2 | -3 | -1| Disabled | 3 | Default | 3 | - | Vulkan | PAL | Async Mix |
 | Justice League Heroes | -3 | -2 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Klonoa 2 | -1 | -1 | Disabled | 3 | Default | Vulkan | Accurate | PAL | Async Mix |
 | LEGO Star Wars II: The Original Trilogy | -3 | -2 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
@@ -64,9 +68,11 @@
 | PES 2011 | -3 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
 | Peter Jackson King Kong | -3 | -1 | Performance | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
 | Pro Evolution Soccer 2008 | -3 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
+| Rachet & Clank - Size Matters | -1 | Default | Disabled | 3 | Ultra | Vulkan | - | PAL | Async Mix |
 | Red Faction | -3 | -1 | Disabled | 3 | Ultra | Vulkan | Disabled Readbacks | PAL | Async Mix |
 | Red Faction II | -3 | -2 | Disabled | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
 | Resident Evil 4 | -2 | Default | Disabled | 3 | Ultra | OpenGL | Unsynchronized | PAL | Async Mix |
+| Rogue Galaxy | -2 | -3 | Disabled | 3 | Ultra | Vulkan | Default | PAL | Async Mix |
 | Rumble Racing | Default | Default | Disabled | 3 | Ultra | Vulkan | Disabled | PAL | Async Mix |
 | Shinobi | Default | Default | Disabled | 3 | Ultra | Vulkan | Accurate | PAL | Async Mix |
 | Shox | -3 | -1 | Performance | 3 | — | Vulkan | — | PAL | Async Mix |
